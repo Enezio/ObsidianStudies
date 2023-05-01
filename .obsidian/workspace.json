@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "629b555fe6ac665e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf9a09fe46ef9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f250e85a52687fe9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0903d268702136b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "159ca0df035f5c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224ff7c477392a87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abe0783d3c9828ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d2fff2c2f75ee1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "67560d98aff10ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "137d1f2a163dc5cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6037fbcfddf4a6e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e58648b2ccbc166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a084f6c36aaeb16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f84e84f1b0c6516c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "f250e85a52687fe9",
+  "lastOpenFiles": [
+    "Game Design/Curva de Dificuldade.md",
+    "ObsidianStudies",
+    "Puzzle Design/Puzzle.md",
+    "Attachments/2023-04-29 14-37-49.mp4",
+    "Game Design/Game Design.md",
+    "Game Design/MDA.md",
+    "Game Design/Dark Patterns.md",
+    "Game Design/Negative Feedback Loop.md",
+    "Puzzle Design",
+    "Game Design/Positive Feedback Loop.md",
+    "Mind/Teoria do Flow.md",
+    "Mind/Modelo de Memória de Atkinson & Shiffrin.md",
+    "Mind/Teoria da Carga Cognitiva.md",
+    "Mind/Condicionamento Operante.md",
+    "Attachments/MDA - Original.pdf",
+    "Attachments/MDA Flow.png",
+    "Attachments/MemoryModel_01.png"
+  ]
+}

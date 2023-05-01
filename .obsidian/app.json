@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ]
+}
