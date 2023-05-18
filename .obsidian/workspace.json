@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8fe995ba37e1e14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design/Negative Feedback Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f250e85a52687fe9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Design/Positive Feedback Loop.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,8 +76,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "62fe75b466668e10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,11 +101,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f84e84f1b0c6516c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Design/Negative Feedback Loop.md"
+              }
+            }
+          },
+          {
             "id": "6037fbcfddf4a6e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Design/Negative Feedback Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +133,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Design/Negative Feedback Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "bd47dbd8670e3f1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -112,25 +157,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "f84e84f1b0c6516c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd47dbd8670e3f1c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,20 +175,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f250e85a52687fe9",
+  "active": "8fe995ba37e1e14d",
   "lastOpenFiles": [
+    "Game Design/Positive Feedback Loop.md",
+    "Game Design/Negative Feedback Loop.md",
+    "Attachments/Negative Feedback Loop Curve.png",
+    "Attachments/Positive Feedback Loop Curve.png",
+    "Game Design/Dark Patterns.md",
+    "Mind/Modelo de Memória de Atkinson & Shiffrin.md",
+    "Game Design/MDA.md",
     "Game Design/Curva de Dificuldade.md",
     "ObsidianStudies",
     "Puzzle Design/Puzzle.md",
     "Attachments/2023-04-29 14-37-49.mp4",
     "Game Design/Game Design.md",
-    "Game Design/MDA.md",
-    "Game Design/Dark Patterns.md",
-    "Game Design/Negative Feedback Loop.md",
     "Puzzle Design",
-    "Game Design/Positive Feedback Loop.md",
     "Mind/Teoria do Flow.md",
-    "Mind/Modelo de Memória de Atkinson & Shiffrin.md",
     "Mind/Teoria da Carga Cognitiva.md",
     "Mind/Condicionamento Operante.md",
     "Attachments/MDA - Original.pdf",
