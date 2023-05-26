@@ -8,30 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fe995ba37e1e14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Negative Feedback Loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f250e85a52687fe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c7e7f9cac6e8547",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Game Design/Positive Feedback Loop.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.4"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Design/Negative Feedback Loop.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design/Negative Feedback Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design/Negative Feedback Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,22 +165,27 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8fe995ba37e1e14d",
+  "active": "bd47dbd8670e3f1c",
   "lastOpenFiles": [
-    "Game Design/Positive Feedback Loop.md",
     "Game Design/Negative Feedback Loop.md",
+    "Game Design/Positive Feedback Loop.md",
+    "Game Design/A Taxonomia de Bartle.md",
+    "Game Design/MDA.md",
+    "Game Design/Dark Patterns.md",
+    "Game Design/Curva de Dificuldade.md",
+    "Mind/Teoria do Flow.md",
+    "Untitled.canvas",
+    "Attachments/Bartle's Graph 02.png",
+    "Attachments/Bartle's Graph 01.png",
+    "Attachments/Player Type Percent.jpg",
+    "Game Design/Game Design.md",
     "Attachments/Negative Feedback Loop Curve.png",
     "Attachments/Positive Feedback Loop Curve.png",
-    "Game Design/Dark Patterns.md",
     "Mind/Modelo de Memória de Atkinson & Shiffrin.md",
-    "Game Design/MDA.md",
-    "Game Design/Curva de Dificuldade.md",
     "ObsidianStudies",
     "Puzzle Design/Puzzle.md",
     "Attachments/2023-04-29 14-37-49.mp4",
-    "Game Design/Game Design.md",
     "Puzzle Design",
-    "Mind/Teoria do Flow.md",
     "Mind/Teoria da Carga Cognitiva.md",
     "Mind/Condicionamento Operante.md",
     "Attachments/MDA - Original.pdf",

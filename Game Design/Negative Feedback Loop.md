@@ -11,6 +11,7 @@ Negative feedback loops ou loops de realimentação negativos equilibram sucesso
 ### Vantagens:
 Esse sistema é ótimo para manter as coisas equilibradas, por isso é muito usada em party games para manter todos os competidores com chances de vencer.
 Ele também é ótimo para criar ondas de vai e vêm, deixando o jogo bem dinâmico e dramático.
+Ao manter o jogador "vivo" no jogo, a gente mantém ele interessado e engajado na experiência, o que impede ele saia do estado de flow ([[Teoria do Flow]]).
 ### Desvantagens:
 Esse tipo de sistema prejudica jogadores mais habilidosos que veem constantemente a vitória sendo tirada da suas mãos pelo sistema do jogo.
 
