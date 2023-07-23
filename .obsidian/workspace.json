@@ -11,22 +11,15 @@
             "id": "f250e85a52687fe9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c7e7f9cac6e8547",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Game Design/Pontos de Frustração.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Design/Pontos de Frustração.md"
+              }
             }
           },
           {
@@ -108,8 +103,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Design/Pontos de Frustração.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -124,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Design/Pontos de Frustração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 445.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,12 +164,13 @@
   },
   "active": "bd47dbd8670e3f1c",
   "lastOpenFiles": [
-    "Game Design/Negative Feedback Loop.md",
-    "Game Design/Positive Feedback Loop.md",
-    "Game Design/A Taxonomia de Bartle.md",
-    "Game Design/MDA.md",
     "Game Design/Dark Patterns.md",
+    "Game Design/Pontos de Frustração.md",
+    "Game Design/Positive Feedback Loop.md",
+    "Game Design/Negative Feedback Loop.md",
+    "Game Design/A Taxonomia de Bartle.md",
     "Game Design/Curva de Dificuldade.md",
+    "Game Design/MDA.md",
     "Mind/Teoria do Flow.md",
     "Untitled.canvas",
     "Attachments/Bartle's Graph 02.png",
